@@ -25,5 +25,5 @@ The `Main Model.ipynb` file is where the main analysis occurs, providing the out
 
 
 ### References
-[^1]: Collard, Fabrice, Michel Habib, and Jean-Charles Rochet. “Sovereign Debt Sustainability in Advanced Economies”. Journal of the European Economic Association 13, no. 3 (2015): 381–420. ![http://www.jstor.org/stable/24539255](http://www.jstor.org/stable/24539255). Especially supplementary materials
+[^1]: Collard, Fabrice, Michel Habib, and Jean-Charles Rochet. “Sovereign Debt Sustainability in Advanced Economies”. Journal of the European Economic Association 13, no. 3 (2015): 381–420. [http://www.jstor.org/stable/24539255](http://www.jstor.org/stable/24539255). Especially supplementary materials
 
