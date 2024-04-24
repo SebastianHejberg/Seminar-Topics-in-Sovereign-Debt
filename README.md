@@ -4,7 +4,7 @@
 
 
 # Project Overview
-Welcome to our GitHub repository. Here, we have displayed the source code for our estimation and application of the model by *Collard, Habib, and Rochet (2015)*[^1], used for the seminar *"Topics in Sovereign Debt - Spring 2024"* at the University of Copenhagen. This project includes two Jupyter Notebook files: 'Data Load' and 'Main Model'. Below is a brief description of each file and how they work together to achieve our project's goals.
+Welcome to our GitHub repository. Here, we have displayed the source code for our estimation and application of the model by *Collard, Habib, and Rochet (2015)*[^1], used for the seminar *"Topics in Sovereign Debt - Spring 2024"* at the University of Copenhagen. This project includes two Jupyter Notebook files: `Data Load` and `Main Model`. Below is a brief description of each file and how they work together to achieve our project's goals.
 
 ## Data Load
 The `Data Load.ipynb` file is responsible for importing and preparing data for analysis. This notebook contains:
@@ -23,6 +23,7 @@ The `Main Model.ipynb` file is where the main analysis occurs, providing the out
 - Please note that to save plots locally, you need to set your own file path.
 - The final section outputs the results in $\LaTeX$, but it is displayed in a dataframe format so that GitHub readers can easily understand the results.
 
+$$~$$
 
 ### References
 [^1]: Collard, Fabrice, Michel Habib, and Jean-Charles Rochet. “Sovereign Debt Sustainability in Advanced Economies”. Journal of the European Economic Association 13, no. 3 (2015): 381–420. [http://www.jstor.org/stable/24539255](http://www.jstor.org/stable/24539255). Especially supplementary materials
