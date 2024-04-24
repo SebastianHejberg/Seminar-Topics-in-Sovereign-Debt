@@ -15,7 +15,7 @@ The `Data Load.ipynb` file is responsible for importing and preparing data for a
 ## Main Model
 The `Main Model.ipynb` file is where the main analysis occurs, providing the outputs. This notebook includes:
 - Model Estimation:
-  - We selected cases/scenarios for different maximum primary surpluses (alpha) and interest rates (time-varying or not).
+  - We select cases/scenarios for different maximum primary surpluses (alpha) and interest rates (time-varying or not).
   - In the main model, we run both the static and time-varying models:
     1. The static model is based on the average interest rate for the entire period and the debt-to-GDP level of 2022.
     2. The time-varying model is estimated using the country-specific MPS and constant MPS, while all other macroeconomic variables are time-varying.
