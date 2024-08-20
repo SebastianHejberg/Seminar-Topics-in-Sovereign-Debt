@@ -1,8 +1,3 @@
-**Please Note:** 
-- <font color="red">The source code for our estimation of the model by Collard, Habib, and Rochet (2015) is _**NOT**_ accessible yet.</font>
-
-
-
 # Project Overview
 Welcome to our GitHub repository. Here, we have displayed the source code for our estimation and application of the model by *Collard, Habib, and Rochet (2015)*[^1], used for the seminar *"Topics in Sovereign Debt - Spring 2024"* at the University of Copenhagen. This project includes two Jupyter Notebook files: `Data Load` and `Main Model`. Below is a brief description of each file and how they work together to achieve our project's goals.
 
